@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ಮಾತೃ-ಸ್ನೇಹ (MatruSneh)</string>
+    <string name="login_title">ಮಾತೃ-ಸ್ನೇಹಕ್ಕೆ ಸ್ವಾಗತ 💖</string>
+    <string name="login_name_hint">ನಿಮ್ಮ ಹೆಸರು</string>
+    <string name="login_email_hint">ನಿಮ್ಮ ಇಮೇಲ್</string>
+    <string name="login_button">ಪ್ರಾರಂಭಿಸಿ</string>
+    
+    <string name="nav_home">ಮುಖಪುಟ</string>
+    <string name="nav_kick">ಒದೆತ</string>
+    <string name="nav_nutrition">ಪೋಷಣೆ</string>
+    <string name="nav_profile">ಪ್ರೊಫೈಲ್</string>
+    
+    <string name="home_greeting">ನಮಸ್ಕಾರ, %s 💖</string>
+    <string name="home_pregnancy_week">ಗರ್ಭಧಾರಣೆಯ 24ನೇ ವಾರ</string>
+    
+    <string name="card_kick_count">ಒದೆತದ ಎಣಿಕೆ</string>
+    <string name="card_next_checkup">ಮುಂದಿನ ತಪಾಸಣೆ</string>
+    <string name="card_health_alerts">ಆರೋಗ್ಯ ಎಚ್ಚರಿಕೆಗಳು</string>
+    <string name="card_motivation">"ನೀವು ಚೆನ್ನಾಗಿ ಮಾಡುತ್ತಿದ್ದೀರಿ ಅಮ್ಮ! ಚೆನ್ನಾಗಿ ವಿಶ್ರಾಂತಿ ಪಡೆಯಿರಿ."</string>
+    
+    <string name="btn_enable_reminder">ಜ್ಞಾಪನೆ ಆನ್ ಮಾಡಿ</string>
+    <string name="btn_disable_reminder">ಜ್ಞಾಪನೆ ಆಫ್ ಮಾಡಿ</string>
+    
+    <string name="kick_counter_title">ಒದೆತ ಎಣಿಕೆ</string>
+    <string name="kick_counter_subtitle">ಮಗು ಒದ್ದಾಗಲೆಲ್ಲಾ ಬಟನ್ ಒತ್ತಿ</string>
+    <string name="kick_counter_total">ಇಂದಿನ ಒಟ್ಟು ಒದೆತಗಳು: %d</string>
+    
+    <string name="nutrition_title">ದೈನಂದಿನ ಪೋಷಣೆ</string>
+    <string name="nutrition_ragi">ರಾಗಿ (ಕ್ಯಾಲ್ಸಿಯಂ &amp; ಕಬ್ಬಿಣ)</string>
+    <string name="nutrition_greens">ಸೊಪ್ಪು (ಫೋಲಿಕ್ ಆಸಿಡ್)</string>
+    <string name="nutrition_pulses">ಬೇಳೆಕಾಳುಗಳು (ಪ್ರೋಟೀನ್)</string>
+    
+    <string name="profile_title">ಪ್ರೊಫೈಲ್</string>
+    <string name="profile_language">ಭಾಷೆ</string>
+    <string name="profile_health_alerts">ಆರೋಗ್ಯ ಎಚ್ಚರಿಕೆಗಳು</string>
+    <string name="profile_smart_reminders">ಸ್ಮಾರ್ಟ್ ಜ್ಞಾಪನೆಗಳು</string>
+</resources>

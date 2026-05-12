@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MatruSneh</string>
+    <string name="login_title">Welcome to Matru-Sneh 💖</string>
+    <string name="login_name_hint">Your Name</string>
+    <string name="login_email_hint">Your Email</string>
+    <string name="login_button">Get Started</string>
+    
+    <string name="nav_home">Home</string>
+    <string name="nav_kick">Kick</string>
+    <string name="nav_nutrition">Nutrition</string>
+    <string name="nav_profile">Profile</string>
+    
+    <string name="home_greeting">Hello, %s 💖</string>
+    <string name="home_pregnancy_week">Week 24 of Pregnancy</string>
+    
+    <string name="card_kick_count">Kick Count</string>
+    <string name="card_next_checkup">Next Checkup</string>
+    <string name="card_health_alerts">Health Alerts</string>
+    <string name="card_motivation">"You are doing great, Amma! Keep resting well."</string>
+    
+    <string name="btn_enable_reminder">Enable Reminder</string>
+    <string name="btn_disable_reminder">Disable Reminder</string>
+    
+    <string name="kick_counter_title">Kick Counter</string>
+    <string name="kick_counter_subtitle">Tap the button every time you feel a kick</string>
+    <string name="kick_counter_total">Total Kicks Today: %d</string>
+    
+    <string name="nutrition_title">Daily Nutrition</string>
+    <string name="nutrition_ragi">Ragi (Calcium &amp; Iron)</string>
+    <string name="nutrition_greens">Leafy Greens (Folic Acid)</string>
+    <string name="nutrition_pulses">Pulses &amp; Dal (Protein)</string>
+    
+    <string name="profile_title">Profile</string>
+    <string name="profile_language">Language</string>
+    <string name="profile_health_alerts">Health Alerts</string>
+    <string name="profile_smart_reminders">Smart Reminders</string>
+    <string name="btn_logout">Logout</string>
+    
+    <string name="welcome_subtitle">Your personal pregnancy care companion</string>
+    <string name="welcome_get_started">Get Started</string>
+</resources>
